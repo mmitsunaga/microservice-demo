@@ -1,0 +1,10 @@
+twitter-to-kafka-service:
+  twitter-keywords:
+    - Java
+    - Microservices
+    - Spring
+    - Kafka
+    - Elasticsearch
+  api-key: kOdaNVLqOgyyxNm6qVU6mHETm
+  api-key-secret: WDlSYpv04y0IMTVvI1tpP8NoVGMRR5uQqffHBGU2Z1uzQMEP38
+  bearer-token: AAAAAAAAAAAAAAAAAAAAAH4IggEAAAAACQLz1Sf40OHkArcl0JBmv8r732w%3D7eq0wsltrZ80lTEnFwu1lagAm3jTHScr4NqD0r6O011EI5FyJI
